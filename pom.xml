@@ -148,9 +148,11 @@
 			
 </plugins>
 	</build>
-		<repository>
+	<repositories>	
+	<repository>
 	      <id>nexus</id>
 	      <name>tesla proxy Nexus Repository</name>
 	      <url>http://172.31.13.123:8081/repository/tesladev-proxy/</url>
 	    </repository>
+	</repositories>	
 </project>
