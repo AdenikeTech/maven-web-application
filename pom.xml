@@ -96,13 +96,13 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>Paypal Releases Nexus Repository</name>
+	      <name>tesla Releases Nexus Repository</name>
 	      <url>http://172.31.13.123:8081/repository/tesladev-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Paypal Snapshot Nexus Repository </name>
+	      <name>tesla Snapshot Nexus Repository </name>
 	      <url>http://172.31.13.123:8081/repository/tesladev-snapshot/</url>
 	    </snapshotRepository>
 	    
@@ -148,6 +148,8 @@
 			
 </plugins>
 	</build>
-	
+		<id>nexus</id>
+	      <name>tesla Snapshot Nexus Repository </name>
+	      <url>http://172.31.13.123:8081/repository/tesladev-proxy/</url>
 	
 </project>
