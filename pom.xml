@@ -148,8 +148,9 @@
 			
 </plugins>
 	</build>
-		<id>nexus</id>
-	      <name>tesla Snapshot Nexus Repository </name>
+		<repository>
+	      <id>nexus</id>
+	      <name>tesla proxy Nexus Repository</name>
 	      <url>http://172.31.13.123:8081/repository/tesladev-proxy/</url>
-	
+	    </repository>
 </project>
