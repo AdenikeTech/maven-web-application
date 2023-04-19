@@ -103,7 +103,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>tesla33 Snapshot Nexus Repository </name>
-	      <url>http://3.98.123.19:8081/repository/paypal-snapshot/</url>
+	      <url>http://3.98.123.19:8081/repository/tesla33-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
