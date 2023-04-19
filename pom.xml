@@ -96,14 +96,14 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>tesla Releases Nexus Repository</name>
+	      <name>tesla33 Releases Nexus Repository</name>
 	      <url>http://3.98.123.19:8081/repository/tesla33-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>tesla Snapshot Nexus Repository </name>
-	      <url>http://3.98.123.19:8081/repository/tesla33-snapshot/</url>
+	      <name>tesla33 Snapshot Nexus Repository </name>
+	      <url>http://3.98.123.19:8081/repository/paypal-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
@@ -151,7 +151,7 @@
 	<repositories>	
 	<repository>
 	      <id>nexus</id>
-	      <name>tesla proxy Nexus Repository</name>
+	      <name>tesla33 proxy Nexus Repository</name>
 	      <url>http://3.98.123.19:8081/repository/tesla33-proxy/</url>
 	    </repository>
 	</repositories>	
