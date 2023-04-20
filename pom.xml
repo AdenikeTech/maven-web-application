@@ -28,6 +28,13 @@
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
 	</properties>
+	<repositories>
+		<repository>
+			<id>nexus</id>
+			<name>nexus proxy repo</name>
+			<url>http://99.79.46.229:8081/repository/tesla33-proxy/</url>
+		</repository>
+	</repositories>
 
 	<dependencies>
 		
