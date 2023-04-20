@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>tesla33 Releases Nexus Repository</name>
-	      <url>http://172.31.13.123:8081/repository/tesla33-releases/</url>
+	      <url>http://99.79.46.229:8081/repository/tesla33-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>tesla33 Snapshot Nexus Repository </name>
-	      <url>http://172.31.13.123:8081/repository/tesla33-snapshots/</url>
+	      <url>http://99.79.46.229:8081/repository/tesla33-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
@@ -148,11 +148,5 @@
 			
 </plugins>
 	</build>
-	<repositories>	
-	<repository>
-	      <id>nexus</id>
-	      <name>tesla33 proxy Nexus Repository</name>
-	      <url>http://172.31.13.123:8081/repository/tesla33-proxy/</url>
-	    </repository>
-	</repositories>	
+		
 </project>
