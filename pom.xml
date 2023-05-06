@@ -152,7 +152,7 @@
 <repositories>
 	<repository>
 		<id>nexus</id>
-		<name>tesla nexus proxy</name>
+		<name>tesla nexus proxy repo</name>
 		<url>http://35.183.48.92:8081/repository/tesla-proxy/</url>
 		</repository>
 	</repositories>
