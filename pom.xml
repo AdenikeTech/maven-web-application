@@ -103,14 +103,14 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>tesla33 Releases Nexus Repository</name>
-	      <url>http://35.183.48.92:8081/repository/maven-snapshots/</url>
+	      <name>tesla Releases Nexus Repository</name>
+	      <url>http://35.183.48.92:8081/repository/tesla-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>tesla33 Snapshot Nexus Repository </name>
-	      <url>http://35.183.48.92:8081/repository/maven-snapshots/</url>
+	      <name>tesla Snapshot Nexus Repository </name>
+	      <url>http://35.183.48.92:8081/repository/tesla-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
